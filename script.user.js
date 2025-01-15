@@ -8,8 +8,8 @@
 // @grant        none
 // @run-at       document-start
 // @icon         https://raw.githubusercontent.com/NovaProductionNet/Icons/main/icon.webp
-// @updateURL    https://github.com/NovaProductionNet/Nova-Bots/raw/refs/heads/main/script.user.js
-// @downloadURL  https://github.com/NovaProductionNet/Nova-Bots/raw/refs/heads/main/script.user.js
+// @updateURL    https://github.com/NovaProductionNet/script/raw/refs/heads/main/script.user.js
+// @downloadURL  https://github.com/NovaProductionNet/script/raw/refs/heads/main/script.user.js
 // ==/UserScript==
 
 
