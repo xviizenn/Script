@@ -1,7 +1,7 @@
 // ==UserScript== 
 // @name         Nova-Bots-Agar.cc-Global-Obfuscated
 // @namespace    Nova-Bots-Agar.cc-Global-Obfuscated
-// @version      2.0.0
+// @version      3.0.0
 // @description  Simply just better.
 // @author       NovaProductionNet
 // @match        *.agar.cc/*
