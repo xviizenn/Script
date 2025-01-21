@@ -1,8 +1,8 @@
 // ==UserScript== 
-// @name         Nova-Bots-Agar.cc-Global-Obfuscated
-// @namespace    Nova-Bots-Agar.cc-Global-Obfuscated
-// @version      3.0.0
-// @description  Simply just better.
+// @name         Nova-Bots https://discord.gg/6vfbAe4ENT
+// @namespace    Nova-Bots https://discord.gg/6vfbAe4ENT
+// @version      4.0.0
+// @description  Simply just better
 // @author       NovaProductionNet
 // @match        *.agar.cc/*
 // @grant        none
