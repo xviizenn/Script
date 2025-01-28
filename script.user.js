@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Nova Bots
-// @namespace    Nova Bots
+// @namespace    discord.gg/qPER7ThAnJ
 // @version      1.0.0
 // @description  Simply just better
 // @author       @xviizenn
