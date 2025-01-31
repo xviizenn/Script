@@ -7,9 +7,9 @@
 // @match        *.agar.cc/*
 // @grant        none
 // @run-at       document-start
-// @icon         https://cdn.glitch.global/7069adb9-079a-4915-91cd-c4b41e35bb68/public%2Ficon.webp?v=1738131311785
-// @updateURL    https://n0va.glitch.me/public/script.user.js
-// @downloadURL  https://n0va.glitch.me/public/script.user.js
+// @icon         https://raw.githubusercontent.com/xviizenn/Icons/refs/heads/main/icon.webp
+// @updateURL    https://github.com/xviizenn/Script/raw/refs/heads/main/script.user.js
+// @downloadURL  https://github.com/xviizenn/Script/raw/refs/heads/main/script.user.js
 // ==/UserScript==
 
 // If this script isn't working, make sure you have turned on Developer mode in the area where you manage Extensions.
